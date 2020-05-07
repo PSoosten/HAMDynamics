@@ -13,3 +13,5 @@ These scripts are tools to visualize the density renormalization in the hierarch
 `Dynamics.m` produces a video showing the evolution of the density under the dynamics.
 
 `MakePlots.m` creates a plot of the final density and tries to fit it to a Cauchy distribution.
+
+`Movie.mp4` is a sample movie created by `Dynamics.m`.
