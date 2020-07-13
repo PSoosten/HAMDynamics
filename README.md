@@ -1,4 +1,4 @@
-# HAMDynamics
+# HAM Dynamics
 
 These scripts are tools to visualize the density renormalization in the hierarchical Anderson model. Details on the mathematical background can be found in these papers: [[1]](https://arxiv.org/abs/1303.2012) [[2]](https://arxiv.org/abs/1311.0780) [[3]](https://arxiv.org/abs/1608.01602).
 
